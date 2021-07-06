@@ -1,2 +1,2 @@
-# Stocks_Datetime_Price
+# Data_analytics
 I have created a database, table and inserted the values using MySQL
